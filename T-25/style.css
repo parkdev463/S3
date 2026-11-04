@@ -1,0 +1,22 @@
+.banniere-accueil{
+    /* border: 2px solid red; */
+    padding: 96px 24px;
+    text-align: center;
+    /* background-image: radial-gradient(#e5e7eb 1px, transparent 1px); */
+    background-size: 24px 24px;
+}
+ .banniere-accueil h1{
+    /* border: 2px solid yellow; */
+    max-width: 850px;
+    margin: 0 auto;
+    font-size: 55px;
+    color: #0a2042;
+} 
+
+.banniere-accueil p{
+    /* border: 2px solid turquoise; */
+    max-width: 680px;
+    margin: 24px auto 0 ;
+    font-size: 17px;
+    color: #6b7280;
+} 

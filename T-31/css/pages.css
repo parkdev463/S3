@@ -1,0 +1,16 @@
+.filtre-categories{
+    background-color: aqua;
+    margin: 64px 22px;
+    /* align-items: center; */
+}
+.filtre-categories h2{
+    margin: 0 0 20px;
+    color: blueviolet;
+    font-size: 18px;
+}
+.liste-filtres{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}

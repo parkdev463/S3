@@ -1,0 +1,35 @@
+.en-tete-site{
+     padding: 20px 24px; 
+     background: white;
+      border-bottom: 1px solid red; 
+}
+.logo {
+    font-family: Georgia, serif; 
+    font-size: 22px; 
+    font-weight: 900; 
+}
+.logo-sombre { 
+    color: gold; 
+}
+.logo-couleur { 
+    color: #2673e8; 
+}
+.liens-navigation a { 
+    color: #6b7280; 
+    font-size: 14px; 
+    font-weight: 500; 
+}
+.bouton-principal { 
+    display: inline-block; 
+    padding: 10px 20px;
+    color: white; 
+    background: #2673e8;
+     border-radius: 8px; 
+     font-size: 14px; 
+     font-weight: 600; 
+    text-align: center; 
+}
+
+.barre-navigation{
+    display: flex;
+}
